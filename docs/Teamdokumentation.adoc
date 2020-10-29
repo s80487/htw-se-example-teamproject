@@ -11,3 +11,10 @@ Hans Schoene <s80564@htw-dresden.de>
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git.
 
 include::software.adoc[software.adoc]
+
+|===
+| Name | Rolle
+|Benjamin Franklin | A
+|Timbo de la Bimbo | B
+|Hans im Glück | C
+|===
