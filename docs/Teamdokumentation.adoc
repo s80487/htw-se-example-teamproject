@@ -1,6 +1,6 @@
 = Teamdokumentation
 Benjamin Müller <benjamin.mueller@htw-dresden>
-Vorname Nachname <email>
+Tim Lindner <s80482@htw-dresden.de>
 Hans Schoene <s80564@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
