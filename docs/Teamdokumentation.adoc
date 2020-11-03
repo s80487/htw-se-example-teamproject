@@ -14,8 +14,8 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 include::software.adoc[software.adoc]
 
 |===
-| Name | Rolle
-|Benjamin Franklin | A
-|Timbo de la Bimbo | B
-|Hans im Glück | C
+| Name | Rolle | Geburtsdatum
+|Benjamin Franklin | A | 27.09.1994
+|Timbo de la Bimbo | B | 15.06.2001
+|Hans im Glück | C | 24.02.1999
 |===
